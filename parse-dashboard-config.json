@@ -1,0 +1,27 @@
+{
+  "apps": [
+  {
+      "serverURL": "https://api.parse.com/1",
+      "appId": "oVYLOizsuLXxCRucXmrgWF6q0OjlXc9d1fXfBDmU",
+      "masterKey": "IdnvI0MJAOVh2m96HVyzprD1mieHYUH2viIoSDaw",
+      "appName": "HungryBeeDev(Parse)"
+    },
+    {
+      "serverURL": "https://api.parse.com/1",
+      "appId": "9O3uQHctMnz86F6m3lifIlwKrMGONwlUjO2OL4uf",
+      "masterKey": "gevC48VkzGHGrWrRJpz8Dt7SRl4BdJ0ycszsQX9k",
+      "appName": "HungryBee(Parse)"
+    },
+    {
+      "serverURL": "https://hungrybeeprod.herokuapp.com/parse",
+      "appId": "9O3uQHctMnz86F6m3lifIlwKrMGONwlUjO2OL4uf",
+      "masterKey": "gevC48VkzGHGrWrRJpz8Dt7SRl4BdJ0ycszsQX9k",
+      "appName": "HungryBee(Heroku)"
+    }
+  ],
+  "users":[{
+  	"user":"hbuser",
+	"pass":"hb6230127"
+  }],
+  "iconsFolder": "icons"
+}
