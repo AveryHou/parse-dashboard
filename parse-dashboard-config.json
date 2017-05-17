@@ -11,6 +11,12 @@
       "appId": "oVYLOizsuLXxCRucXmrgWF6q0OjlXc9d1fXfBDmU",
       "masterKey": "IdnvI0MJAOVh2m96HVyzprD1mieHYUH2viIoSDaw",
       "appName": "HungryBeeDev"
+    },
+    {
+      "serverURL": "https://go94igo.herokuapp.com/parse",
+      "appId": "5cd282b1-127a-4e5b-b783-728897232f21",
+      "masterKey": "40f69cee-32d0-4f76-9da6-4e468a8b2be4",
+      "appName": "Line@"
     }
   ],
   "users":[{
