@@ -23,6 +23,12 @@
       "appId": "9tWLecLJLoApOL6sMDaP",
       "masterKey": "kYitPPgxatX3HIRPrD72",
       "appName": "FoodBooking"
+    },
+    {
+      "serverURL": "https://donate2navi.herokuapp.com/parse",
+      "appId": "kP6KipEEmdj9w5aZLt6r",
+      "masterKey": "UesEsR0YBeOrdjZ9jnHB",
+      "appName": "Donate2Navi"
     }
   ],
   "users":[{
