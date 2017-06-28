@@ -19,10 +19,10 @@
       "appName": "Line@"
     },
     {
-      "serverURL": "https://foodbooking.herokuapp.com/parse",
+      "serverURL": "https://kingbreakfast.herokuapp.com/parse",
       "appId": "9tWLecLJLoApOL6sMDaP",
       "masterKey": "kYitPPgxatX3HIRPrD72",
-      "appName": "FoodBooking"
+      "appName": "KingBreakfast"
     },
     {
       "serverURL": "https://donate2navi.herokuapp.com/parse",
